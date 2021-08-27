@@ -31,7 +31,7 @@ function createButton() {
     }
 
     const githubdevUrl = `https://Github.dev${location.pathname}`;
-    const element = '<li id="githubdevButton"> <a target="_blank" class="btn btn-sm" href="' + githubdevUrl + '"> <img class="icon octicon octicon-heart text-pink" src="https://github.com/favicons/favicon-codespaces.svg" />Github.dev </a> </li>';
+    const element = '<li id="githubdevButton"> <a target="_blank" class="btn btn-sm" href="' + githubdevUrl + '"> <img class="icon octicon octicon-heart text-pink" src="https://github.com/favicons/favicon-codespaces.svg" /> Github.dev </a> </li>';
     const node = document.querySelector('.pagehead-actions.flex-shrink-0.d-none.d-md-inline');
     if(node !== null){
         node.insertAdjacentHTML('afterBegin', element);
