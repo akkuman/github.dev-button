@@ -6,7 +6,7 @@ github.dev 是 Github 官方的编辑查看 github 仓库的 Web IDE，和 Githu
 
 ## 脚本网址
 
-![显示 Github.dev 按钮](https://greasyfork.org/zh-CN/scripts/431463-%E6%98%BE%E7%A4%BA-github-dev-%E6%8C%89%E9%92%AE)
+[显示 Github.dev 按钮](https://greasyfork.org/zh-CN/scripts/431463-%E6%98%BE%E7%A4%BA-github-dev-%E6%8C%89%E9%92%AE)
 
 ## 致谢
 
